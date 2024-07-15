@@ -1,6 +1,6 @@
 ### CI/CD Automation for an Application
 
-This repository is a main hub to explain the Tide App project, and the skills it demonstrates.
+This repository is a main hub to explain this project, and the skills it demonstrates.
 
 ### Brief Overview:
 Workflow that automates and ensures the consistency of application deployment on a GKE cluster by automatically updating and running the latest Docker image for a CronJob whenever the application code is updated and pushed to GitHub, integrating seamlessly with CI/CD pipelines and reducing operational overhead and errors.
